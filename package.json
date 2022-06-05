@@ -1,0 +1,15 @@
+{
+  "name": "autotrade",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "ts-node": "^10.4.0"
+  }
+}
